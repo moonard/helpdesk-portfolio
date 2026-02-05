@@ -6,10 +6,6 @@ Built a fully functional Active Directory domain environment on AWS EC2 to demon
 
 **Key Achievement:** Created production-ready lab environment demonstrating hands-on capability with Windows Server administration, Active Directory management, and cloud infrastructure deployment via AWS.
 
-## Infrastructure
-Below is a diagram of the domain skeleton.
-[Insert diagram here]
-
 **Environment:**
 - **Domain Controller:** Windows Server 2025 running AD DS, DNS
 - **Client Workstation:** Domain-joined Windows machine
