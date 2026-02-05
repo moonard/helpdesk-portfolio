@@ -134,7 +134,6 @@ gpresult /r
 aws-active-directory-lab/
 ├── README.md
 ├── documentation/
-│   ├── infrastructure-diagram.png
 │   └── screenshots/
 
 ```
