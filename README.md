@@ -151,7 +151,7 @@ aws-active-directory-lab/
 
 Joseph Preston Kang
 - LinkedIn: [[Joseph Kang]](https://www.linkedin.com/in/joseph-kang-845162224/)
-- Email: kangpreston@gmail.com
+- Email: kangpreston@pm.me
 
 ---
 
