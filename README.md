@@ -135,6 +135,8 @@ aws-active-directory-lab/
 ├── README.md
 ├── documentation/
 │   └── screenshots/
+│   └── troubleshooting-client01.md
+
 
 ```
 
@@ -146,11 +148,12 @@ aws-active-directory-lab/
 - AWS VPC
 - Group Policy Management
 - Remote Desktop Protocol
+- DNS
 
 ## Contact
 
 Joseph Preston Kang
-- LinkedIn: [[Joseph Kang]](https://www.linkedin.com/in/joseph-kang-845162224/)
+- LinkedIn: [[Joseph Kang]](https://www.linkedin.com/in/jpkang98)
 - Email: kangpreston@pm.me
 
 ---
